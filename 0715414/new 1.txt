@@ -1,0 +1,11 @@
+<html>
+<head>
+	
+	<meta chaset="UTF-8">
+	<title>Shu Yu Hu's Resume</title>
+	<style>
+</head>
+
+<body>
+	<span style="color:white;font-family:Halogen Gas Lights">Shu Yu Hu</span>
+</body>	
